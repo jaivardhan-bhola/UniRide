@@ -44,7 +44,6 @@ flutter run
 ```
 # Screenshots
 <a><img src ="https://raw.githubusercontent.com/jaivardhan-bhola/UniRide/master/assets/Onboarding1.gif" alt ="Screenshot"/></a>
-<a><img src ="https://raw.githubusercontent.com/jaivardhan-bhola/UniRide/master/assets/Onboarding2.png" alt ="Screenshot"/></a>
 <a><img src ="https://raw.githubusercontent.com/jaivardhan-bhola/UniRide/master/assets/Onboarding3.png" alt ="Screenshot"/></a>
 <a><img src ="https://raw.githubusercontent.com/jaivardhan-bhola/UniRide/master/assets/Onboarding4.png" alt ="Screenshot"/></a>
 <a><img src ="https://raw.githubusercontent.com/jaivardhan-bhola/UniRide/master/assets/Onboarding5.png" alt ="Screenshot"/></a>
