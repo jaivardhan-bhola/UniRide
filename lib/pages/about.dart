@@ -24,7 +24,7 @@ class About extends StatelessWidget {
           children: [
            
               Card(
-                color: Color.fromARGB(255, 255, 228, 152),
+                color: Color.fromARGB(255, 255, 228, 151),
                 child: Column(
                   
                   children: [
@@ -49,7 +49,7 @@ class About extends StatelessWidget {
                 ),
               ),
               Card(
-                color: Color.fromARGB(255, 255, 228, 152),
+                color: Color.fromARGB(255, 255, 228, 151),
                 child: Column(
                   children: [
                     Text('Our Mission', style: GoogleFonts.montserrat(
@@ -73,7 +73,7 @@ class About extends StatelessWidget {
                 ),
               ),
               Card(
-                color: Color.fromARGB(255, 255, 228, 152),
+                color: Color.fromARGB(255, 255, 228, 151),
                 child: Column(
                   children: [
                     Text('Key Features', style: GoogleFonts.montserrat(

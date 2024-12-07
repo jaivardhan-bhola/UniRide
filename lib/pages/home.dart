@@ -57,7 +57,7 @@ class _HomeState extends State<Home> {
                               child: Text(hiveBox.get('email')[0].toUpperCase(), style: GoogleFonts.montserrat(
                                 textStyle: TextStyle(
                                   color: Colors.black,
-                                  fontSize: 30,
+                                  fontSize: 29,
                                   fontWeight: FontWeight.bold,
                                 ),
                               ),),
@@ -96,7 +96,7 @@ class _HomeState extends State<Home> {
                 },
               ),
             ),
-            SizedBox(height: 150),
+            SizedBox(height: 149),
             ElevatedButton(onPressed: (){
               hiveBox.delete('email');
               Navigator.pushReplacement(context,  MaterialPageRoute(builder: (context) => Login()));}, child: Text('Logout', style: TextStyle(color: Colors.white),), style: ElevatedButton.styleFrom(

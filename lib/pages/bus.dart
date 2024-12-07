@@ -78,7 +78,7 @@ void getSuggestions(String input) async {
                 ),
               ),
             ),
-            SizedBox(height: 50),
+            SizedBox(height: 49),
             Container(
               height: MediaQuery.of(context).size.height * 0.3,
               width: MediaQuery.of(context).size.width * 0.9,
